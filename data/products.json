@@ -2,43 +2,46 @@
   {
     "Id": "orbita-lamp-01",
     "Name": "Lámpara Colgante Órbita",
-    "Subtitle": "Tejido esférico · Luz cálida difuminada",
-    "Description": "Una esfera de mimbre natural que convierte la luz en sombra y la sombra en geometría viva. Cada nudo es intencional.",
-    "StoryHtml": "<p>La <strong>Órbita</strong> nació de la observación de las formas que el sol dibuja al filtrarse por una canasta tradicional. Tejida con mimbre curado en agua fría durante 48 horas, cada esfera requiere <em>14 horas de tejido continuo</em> a cargo de una sola artesana.</p><p>El resultado es una lámpara que no ilumina una habitación: la <strong>reescribe</strong>. Los patrones de sombra que proyecta cambian con las horas del día, convirtiendo tu techo en un reloj analógico de formas orgánicas.</p><p>Compatible con bombilla E27 estándar (máx. 40W). Cable textil de lino de 1.5m incluido.</p>",
+    "Subtitle": "Escultura lumínica · Edición de una pieza",
+    "Description": "Una esfera tejida a mano que reescribe el espacio con luz y sombra. Cada nudo es una decisión de diseño tomada en silencio.",
+    "StoryHtml": "<p>La <strong>Órbita</strong> nació de la observación de las formas que el sol dibuja al filtrarse por una canasta tradicional. Tejida con vara de mimbre curada en agua fría durante 48 horas, cada esfera requiere <em>14 horas de tejido continuo</em> a cargo de una sola maestra artesana.</p><p>El resultado es una pieza que no ilumina una habitación: la <strong>reescribe</strong>. Los patrones de sombra que proyecta cambian con las horas del día, convirtiendo el techo en un reloj analógico de formas orgánicas.</p><p>Compatible con bombilla E27 estándar (máx. 40W). Cable textil de lino de 1.5m incluido. Instalación con gancho de techo reforzado.</p>",
     "Price": 1850.00,
     "ImageUrl": "images/products/orbita-lamp.svg",
     "Dimensions": "Ø 40 cm · Colgante total: 60 cm",
     "CraftingTime": "14 horas de tejido a mano",
     "Category": "Individual",
-    "Material": "Mimbre natural curado",
-    "Badges": [ "Edición Limitada", "Pieza Única" ]
+    "Material": "Vara de mimbre natural curada",
+    "Badges": [ "Edición Limitada", "Pieza Única" ],
+    "IsSoldOut": false
   },
   {
     "Id": "nesting-duo-01",
     "Name": "Dúo Organizador Nesting",
-    "Subtitle": "Dos piezas · Un solo envío optimizado",
-    "Description": "Dos canastas de proporciones áureas diseñadas para vivir juntas o separadas. Se anidan para el viaje; se expanden para el hogar.",
-    "StoryHtml": "<p>El <strong>Nesting</strong> es nuestra respuesta artesanal a un problema moderno: el empaque sostenible. Las dos canastas están diseñadas con proporciones exactas para que la pequeña descanse dentro de la grande durante el envío, <em>reduciendo el embalaje en un 60%</em>.</p><p>Tejidas en mimbre blanco natural con acabado en aceite de cera, su textura invita al tacto. Son objetos que se usan y también se contemplan.</p>",
+    "Subtitle": "Proporciones áureas · Envío de bajo impacto",
+    "Description": "Dos piezas de autor diseñadas para anidarse en el viaje y expandirse en el hogar. Logística sostenible convertida en objeto de deseo.",
+    "StoryHtml": "<p>El <strong>Nesting</strong> es nuestra respuesta artesanal a un problema moderno: el empaque sostenible. Las dos piezas están diseñadas con proporciones exactas para que la menor descanse dentro de la mayor durante el envío, <em>reduciendo el embalaje en un 60%</em> sin comprometer la integridad de ninguna.</p><p>Tejidas en vara de mimbre blanco natural con acabado en aceite de cera natural, su textura invita al tacto. Son objetos que se usan y también se contemplan. La pieza mayor abraza libros, plantas o mantas; la menor contiene lo cotidiano con la dignidad que merece.</p>",
     "Price": 2400.00,
     "ImageUrl": "images/products/nesting-duo.svg",
-    "Dimensions": "Grande: Ø 30 cm × 18 cm · Pequeña: Ø 20 cm × 12 cm",
-    "CraftingTime": "22 horas combinadas · 2 artesanas",
+    "Dimensions": "Mayor: Ø 30 × 18 cm · Menor: Ø 20 × 12 cm",
+    "CraftingTime": "22 horas · 2 maestras artesanas",
     "Category": "Bundle",
-    "Material": "Mimbre blanco natural · Acabado en cera",
-    "Badges": [ "Envío Optimizado", "Sostenible" ]
+    "Material": "Vara de mimbre blanco · Acabado en cera natural",
+    "Badges": [ "Envío Optimizado", "Sostenible" ],
+    "IsSoldOut": false
   },
   {
     "Id": "bano-relieve-set-01",
     "Name": "Set de Baño Relieve",
-    "Subtitle": "3 piezas · Ritual de bienestar",
-    "Description": "Tres objetos pequeños que transforman la rutina del baño en un ritual con textura, presencia y silencio.",
-    "StoryHtml": "<p>El <strong>Relieve</strong> es la colección más táctil de nuestro catálogo. Las tres piezas —bandeja plana, organizador cilíndrico y portavela trenzado— comparten el mismo patrón de tejido en relieve que las hace inconfundibles como conjunto.</p><p>El mimbre utilizado pasa por un proceso de impermeabilización natural con aceite de linaza, lo que le confiere resistencia a la humedad sin perder su calidez orgánica.</p>",
+    "Subtitle": "Tres piezas de autor · Ritual de bienestar",
+    "Description": "Tres esculturas utilitarias que transforman la rutina del baño en un ritual con textura, presencia y silencio intencional.",
+    "StoryHtml": "<p>El <strong>Relieve</strong> es la colección más táctil de nuestro catálogo. Las tres piezas —bandeja plana, organizador cilíndrico y portavela trenzado— comparten el mismo patrón de tejido en relieve que las hace inconfundibles como conjunto, pero completamente funcionales por separado.</p><p>La vara de mimbre utilizada pasa por un proceso de impermeabilización natural con aceite de linaza prensado en frío, lo que le confiere resistencia a la humedad sin perder su calidez orgánica ni su aroma a madera.</p><p>El portavela convierte cualquier vela tipo tea light en una linterna de sombras cálidas. La bandeja contiene jabones artesanales, perfumes o el orden perfumado de un baño que se vive con intención. El organizador cilíndrico guarda pinceles, lápices o incienso.</p>",
     "Price": 1200.00,
     "ImageUrl": "images/products/bano-relieve.svg",
     "Dimensions": "Bandeja: 25×15 cm · Cilindro: Ø 8×12 cm · Portavela: Ø 10 cm",
     "CraftingTime": "18 horas · 3 piezas individuales",
     "Category": "Bundle",
-    "Material": "Mimbre impermeabilizado · Aceite de linaza",
-    "Badges": [ "Set Exclusivo", "Apto Baño" ]
+    "Material": "Vara de mimbre impermeabilizada · Aceite de linaza",
+    "Badges": [ "Set Exclusivo", "Apto Baño" ],
+    "IsSoldOut": false
   }
 ]
