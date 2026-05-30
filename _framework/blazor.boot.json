@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Mimbre.Storefront",
   "resources": {
-    "hash": "sha256-lEUdSu9OIsKcj5pFYMV5k10SzphbKfU6ALsYLASOzgc=",
+    "hash": "sha256-9sXYcR4hh5s7kSjnwvdclNM8HAj5JGPNrntSItxQDRw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-nElGk+CZFyq0PbPm4JU8avD6lER7x9Z1C54BK7qY12Q="
     },
@@ -50,7 +50,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-NL5sBkQtOmwbpwZ0yb6AlsOfFlNN4wrT6EdNssIKLIg=",
       "System.Threading.wasm": "sha256-2XxvKK89Bd7ngzD6+eGOlxl/qOVaCHVkcFiCaBXXzTs=",
       "System.Private.CoreLib.wasm": "sha256-7QTZL6UsZPIzrRQOrJ04bCjSgUuhKbi/gTD2hXtn7JU=",
-      "Mimbre.Storefront.wasm": "sha256-EhETCywh/HRxiOeXomXu41xXONk/3zqm8ZJz6LcNiZc="
+      "Mimbre.Storefront.wasm": "sha256-2FUANFrjr0Nau6wcI17lTQjvOSJcTxv8Trdoub0SNXo="
     }
   },
   "cacheBootResources": true,
